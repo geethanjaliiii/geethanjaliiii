@@ -13,6 +13,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **developer** with a strong 
 ### 💻 **Projects I've Built**  
 #### 🌿 **Elara(https://github.com/geethanjaliiii/ELARA)** 
 link-https://elara-skincare.vercel.app/
+
 A hosted e-commerce platform for sustainable skincare with a focus on user-centric design and seamless functionality.  
 
 #### 🛠️ **7 Mini Projects**  
