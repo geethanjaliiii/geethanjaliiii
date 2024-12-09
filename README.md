@@ -11,7 +11,8 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **developer** with a strong 
 ## 🌟 Highlights of My Work  
 
 ### 💻 **Projects I've Built**  
-#### 🌿 **Elara**  
+#### 🌿 **Elara(https://github.com/geethanjaliiii/ELARA)** 
+link-https://elara-skincare.vercel.app/
 A hosted e-commerce platform for sustainable skincare with a focus on user-centric design and seamless functionality.  
 
 #### 🛠️ **7 Mini Projects**  
@@ -30,9 +31,7 @@ Solved 90+ problems on LeetCode, showcasing my algorithmic thinking and problem-
 
 ---
 ## 📂 **Key Repositories**  
-✨ **[Basic JavaScript Concepts](#)**: A go-to resource for understanding core JS concepts.  
-🌐 **[Static Websites](#)**: Fully responsive and modern designs for small-scale projects.  
-⚛️ **[React Projects](#)**: Exploring React's powerful ecosystem with reusable components and state management.  
+✨ **[Basic JavaScript Concepts](https://github.com/geethanjaliiii/JAVASCRIPT-FUNDAMENTAL-PRACTICE-QUESTIONS-)**: A go-to resource for understanding core JS concepts.  
 🧠 **[LeetCode Solutions](https://github.com/geethanjaliiii/Javascript-Leetcode-Solutions)**: Optimized and well-documented solutions for various coding challenges.  
 
 ---
