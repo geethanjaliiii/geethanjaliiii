@@ -11,7 +11,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **developer** with a strong 
 ### 💻 **Projects I've Built**  
 
 #### 🌿 **[Elara](https://github.com/geethanjaliiii/ELARA)**  
-[Live Site](https://elara-skincare.vercel.app/): A hosted e-commerce platform for sustainable skincare with a focus on user-centric design and seamless functionality.  
+[Live Site](https://elara-skincare.vercel.app): A hosted e-commerce platform for sustainable skincare with a focus on user-centric design and seamless functionality.  
 
 #### 🛠️ **7 Mini Projects**  
 
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **developer** with a strong 
   - **[Responsive Xiaomi Website](https://github.com/geethanjaliiii/Xiaomi)**: A responsive Xiaomi clone built with Bootstrap and media queries.  
 
 #### 🤖 **DSA Solutions**  
-Solved 90+ problems on LeetCode, showcasing my algorithmic thinking and problem-solving skills.  
+Solved 100+ problems on LeetCode, showcasing my algorithmic thinking and problem-solving skills.  
 
 ---
 
