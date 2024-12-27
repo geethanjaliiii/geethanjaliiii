@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Geethanjali S  
 
-![Anime Chill GIF](https://media1.tenor.com/m/DKzsH-YSXI4AAAAC/anime-chill.gif)
+![Anime Chill GIF](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
 
 Welcome to my GitHub profile! 🚀 I'm a passionate **developer** with a strong foundation in **data structures and algorithms (DSA)** and hands-on experience in building robust applications. I love solving problems, exploring new technologies, and turning ideas into reality.  
 
