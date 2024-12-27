@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **developer** with a strong 
 
 ---
 
-![Developer Animation]([https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://tenor.com/view/anime-chill-gif-21765247))  
+![Developer Animation](https://tenor.com/view/anime-chill-gif-21765247)
 
 
 
