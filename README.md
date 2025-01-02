@@ -46,7 +46,7 @@ Frontend: React.js, Vite, HTML, CSS, Tailwind, Bootstrap
 Backend: Node.js, Express.js, MongoDB  
 Other Tools: Git, GitHub, Cloudinary, Postman
 ```
-- 📫 How to reach me **arjun.tech177@gmail.com**
+- 📫 How to reach me **geethanjalis5657@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
